@@ -32,7 +32,6 @@
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeIn&repo=Portfolio&theme=radical&show_owner=true)](https://github.com/AlphaCodeIn/Portfolio)
-[![AI Project](https://github-readme-stats.vercel.app/api/pin/?username=AlphaCodeIn&repo=AI-Assistant&theme=radical&show_owner=true)](https://github.com/AlphaCodeIn/dom-magic)
 
 </div>
 
