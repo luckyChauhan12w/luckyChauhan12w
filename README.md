@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm AlphaCodeIn! 
+# 👋 Hey there, I'm Lucky Chauhan
 
 ### 🚀 **Coding the Future | Building Digital Dreams**  
 **💻 Full-Stack Developer | 🤖 AI Enthusiast | 🌐 Open-Source Contributor**
