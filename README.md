@@ -6,6 +6,9 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | AI Integration Enthusiast</h3>
 
 ---
+<p align="center">
+  <img src="https://github.com/Tarun553/Tarun553/blob/main/gif1.gif" width="800" alt="banner" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luckyChauhan12w&label=Profile%20views&color=0e75b6&style=flat" alt="luckyChauhan12w" />
