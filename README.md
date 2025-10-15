@@ -66,44 +66,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckyChauhan12w&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyChauhan12w&theme=radical" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyChauhan12w&show_icons=true&theme=radical&layout=compact" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:luckychauhan.12w@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucky-chauhan-12b18a25a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/luckyChauhan12w">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎓 Education & Achievements
-
-- **Bachelor of Computer Applications (BCA)** — DCRUST University, Sonipat
-- 🏆 **1st Prize** in College Talent Competition
-- 🚀 **Hacker Meetup Participant** in Sonipat
-- 💡 **Full-Stack Web Developer Training** with AI Integration
-
----
-
 ### 🗨️ Quote of the Day
 
 > _"The best way to predict the future is to invent it."_ – Alan Kay
